@@ -2,7 +2,7 @@
 
 > An AI career-guidance advisor on WhatsApp that helps Beninese high-school graduates choose a university program and a career, and estimate their chances of a state scholarship.
 
-🎥 **Demo video:** _coming soon_
+🎥 **Demo video (90 s):** [Watch OrientBot in action](https://res.cloudinary.com/dtwx8br7o/video/upload/v1784879713/OrientBot_90s_V5_jfyc5v.mp4)
 
 ## The problem
 Every year, Beninese baccalauréat holders must pick a university program with little guidance, often based on family pressure rather than their real profile. State scholarships and half-scholarships depend on quotas and thresholds set by the Ministry of Higher Education (MESRS), which most students and parents find hard to read. Parents, who usually pay, rarely get a clear document to support the decision.
