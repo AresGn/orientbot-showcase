@@ -15,10 +15,11 @@ Every year, Beninese baccalauréat holders must pick a university program with l
 - Admin dashboard to follow conversations, payments and leads.
 
 ## Screenshots
-<!-- Add your screenshots to images/ and remove this comment
-![Screen 1](images/screen1.png)
-![Screen 2](images/screen2.png)
--->
+| RIASEC-style cognitive test | Profile and scholarship question |
+|---|---|
+| ![Cognitive test](images/riasec-test.webp) | ![Profile](images/profile.webp) |
+| **Personalised recommendations** | **Orientation report with audio summary** |
+| ![Recommendations](images/recommendations.webp) | ![Report](images/report.webp) |
 
 ## Tech stack
 - **Interface:** WhatsApp (Baileys) · landing page in Astro + Tailwind CSS · admin dashboard in Next.js + TanStack Query
