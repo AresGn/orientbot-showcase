@@ -11,8 +11,7 @@ Every year, Beninese baccalauréat holders must pick a university program with l
 - Builds the student's profile on WhatsApp: bac grades, favourite subjects, a short RIASEC-style cognitive test, career aspirations and expected salary.
 - Recommends 3 programs and careers, explained in French voice notes, with a scholarship / half-scholarship simulation based on the official MESRS guide.
 - Generates a detailed PDF report (with an audio summary) that the student can forward to their parents.
-- Paid in three tiers (1,000 / 2,500 / 4,000 FCFA) via Mobile Money.
-- Admin dashboard to follow conversations, payments and leads.
+- Admin dashboard to follow conversations and student profiles.
 
 ## Screenshots
 | RIASEC-style cognitive test | Profile and scholarship question |
@@ -33,7 +32,7 @@ Every year, Beninese baccalauréat holders must pick a university program with l
 ## Status
 - [x] Live WhatsApp bot with the full guidance flow and scholarship simulation
 - [x] PDF reports and voice notes
-- [x] Mobile Money payments: 7 paying customers at launch, out of 184 landing page visitors
+- [x] Launched: 7 paying customers out of 184 landing page visitors
 - [x] Landing page: [orientbot.sinda.pro](https://orientbot.sinda.pro/)
 - [ ] Migration to the official WhatsApp Business API (in progress)
 
